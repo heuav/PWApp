@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/xinchangHospital.unity
+- path: Assets/Scenes/DuplicateThisTemplateForNewModels_DoNotModify.unity
   isLoaded: 1
   isActive: 1

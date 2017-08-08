@@ -5,15 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/xinchangHospital.unity
     guid: a1764820ae8b6f04587d604678e9c9f6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/scimoresAcademy.unity
     guid: b2036a1f8b366c94dac385d42b0b91cb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/jinganSchool.unity
     guid: e42e7c04e9f199043bb5efebd342ed3f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/gilmerFacade.unity
     guid: dc269b9f067dea342aee4d1d547ab6d9
